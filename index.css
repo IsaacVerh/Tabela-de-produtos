@@ -1,0 +1,28 @@
+body {
+    background-color: hsl(238, 16%, 40%);
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+th {
+    background-color: rgb(0, 149, 69);
+}
+
+td {
+    color: white;
+}
+
+tr:hover {
+    background-color: rgb(72, 72, 61);
+}
+
+#tabela td, th {
+    height: 50px;
+    width: 40%;
+    border: 1px solid black;
+    padding: 8px;
+}
+
